@@ -1,0 +1,10 @@
+#ifndef UART_CONFIG_H_
+#define UART_CONFIG_H_
+
+#define UART_BAUD_RATE  BAUD_RATE_9600
+#define UART_PARITY     EVEN_PARITY
+#define UART_STOP_BIT   STOP_BIT_2
+
+
+
+#endif /* UART_CONFIG_H_ */
